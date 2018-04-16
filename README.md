@@ -34,16 +34,17 @@ python3 API 개발 진행 상황
  - XHRrequest를 통해 서버에 가격정보를 요청하여 받아옵니다.
 3. 자체 javascript로 가격을 계산하는 경우
  - 같은 로직을 작성하여 가격을 계산합니다.
-> **현재까지 연구한 구매대행**
->-
-> -보다존  : tag => script 계산
-> - 바이잇나우 :  XHRrequest 요청
-> -몰베이 : tag=> XHRrequest  요청 =>tag
-> - 아마존365 :  tag=> script 계산
-> -조이베이 : 아직 진행중
-> -유스엔조이 : response가 될때도 있고 안될때도
-> -바이비 :  tag=> javascript parser가 필요
->-
+
+현재까지 연구한 구매대행
+
+보다존  : tag => script 계산
+바이잇나우 :  XHRrequest 요청
+몰베이 : tag=> XHRrequest  요청 =>tag
+아마존365 :  tag=> script 계산
+조이베이 : 아직 진행중
+유스엔조이 : response가 될때도 있고 안될때도
+바이비 :  tag=> javascript parser가 필요
+
 
 
 
