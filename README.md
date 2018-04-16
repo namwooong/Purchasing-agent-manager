@@ -37,19 +37,19 @@ python3 API 개발 진행 상황
 
 현재까지 연구한 구매대행
 
--보다존  : tag => script 계산
+1. 보다존  : tag => script 계산
 
--바이잇나우 :  XHRrequest 요청
+2. 바이잇나우 :  XHRrequest 요청
 
--몰베이 : tag=> XHRrequest  요청 =>tag
+3. 몰베이 : tag=> XHRrequest  요청 =>tag
 
--아마존365 :  tag=> script 계산
+4. 아마존365 :  tag=> script 계산
 
--조이베이 : 아직 진행중
+5. 조이베이 : 아직 진행중
 
--유스엔조이 : response가 될때도 있고 안될때도
+6. 유스엔조이 : response가 될때도 있고 안될때도
 
--바이비 :  tag=> javascript parser가 필요
+7. 바이비 :  tag=> javascript parser가 필요
 
 
 
