@@ -9,6 +9,7 @@
 
 개발 계획
 -------------
+
 ```sequence
 사이트->아마존 API: 물품 이름 
 아마존 API-->사이트:ASIN목록 전송
@@ -34,16 +35,18 @@ python3 API 개발 진행 상황
 3. 자체 javascript로 가격을 계산하는 경우
  - 같은 로직을 작성하여 가격을 계산합니다.
 > **현재까지 연구한 구매대행**
->-#
-> -보다존  : tag-> script 계산
+>-
+> -보다존  : tag => script 계산
 > - 바이잇나우 :  XHRrequest 요청
-> -몰베이 : tag-> XHRrequest  요청 ->tag
-> - 아마존365 :  tag-> script 계산
+> -몰베이 : tag=> XHRrequest  요청 =>tag
+> - 아마존365 :  tag=> script 계산
 > -조이베이 : 아직 진행중
 > -유스엔조이 : response가 될때도 있고 안될때도
-> -바이비 :  tag -> javascript parser가 필요
+> -바이비 :  tag=> javascript parser가 필요
+>-
 
-#
+
+
 
 ASIN 값 : B079P5D9BC 을 예제로 구현된 코드는 parsing_logic.py로 업로드 되어있습니다.
 
