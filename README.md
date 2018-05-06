@@ -64,7 +64,10 @@ ASIN 값 : B079P5D9BC 을 예제로 구현된 코드는 parsing_logic.py로 업�
 사이트 개발 진행 상황
 -------------
 
+1. front server와 backend server를 분리하여 개발 환경을 구축할 예정입니다.
+
 java와 tomcat을 사용하여 개발중입니다. 조만간 예제 코드가 올라 갈 예정입니다.
+
 
 구현할 기능
 
